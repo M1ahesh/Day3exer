@@ -32,7 +32,8 @@ int main() {
     }
     return 0;
 }
----------------------------------------------------------------
+
+
 #include<stdio.h>
 //ADDITION OF 2 3D MATRICES
 int main()
@@ -128,7 +129,8 @@ printf("\n");
 printf("\n");
 }
 }
------------------------------------------
+
+
 sorting an array
 #include<stdio.h>
 
@@ -153,7 +155,8 @@ int main()
         printf("%c\t",a[i]);
     return 0;
 }
---------------------------------------------
+
+
 swapping
 #include<stdio.h>
 #include<conio.h>
@@ -167,7 +170,8 @@ int main()
 	getch();
 	return 0;
 }
-------------------------------------------
+
+
 converting lowercase to uppdercase
 #include<stdio.h>
 int main()
@@ -180,7 +184,8 @@ int main()
         printf("%c",j);
     }
 }
--------------------------------------------
+
+
 break
 #include<stdio.h>
 int main()
@@ -197,7 +202,8 @@ int main()
             break;
     }
 }
--------------------------------------------
+
+
 atoi function using strcpy 
 #include<stdio.h>
 #include<stdlib.h>
